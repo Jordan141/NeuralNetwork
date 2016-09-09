@@ -1,0 +1,4 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
